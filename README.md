@@ -22,3 +22,6 @@ If you'd like to contribute, please fork the repository and use a feature branch
 ## Help / Bug 
 If you need support, you can join my [Discord](https://discord.gg/eusumwVEQk) and open a Ticket.
 If you've found a bug please [open an issue](https://github.com/faabiio/eagleui/issues/new) with as much detail and screenshots as possible or join my [Discord](https://discord.gg/eusumwVEQk) and open a Ticket.
+
+## Liscence
+This work is licensed under CC BY-NC-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0/
