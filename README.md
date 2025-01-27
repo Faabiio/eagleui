@@ -16,6 +16,9 @@ Upload your own logo.png and logo.ico to "assets/img/"
 Customize the css in "assets/scss/style.scss" or upload your own Boostrap theme to "assets\scss\bootstrap-5.3.3"
 Afterwards run "sass-prod" to build the css  
 
+## Requirements
+Tested on PHP-Version: 8.0.26
+
 ## Contributing
 If you'd like to contribute, please fork the repository and use a feature branch.
 
