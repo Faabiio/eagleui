@@ -2,12 +2,14 @@
 
 The Minecraft plugin to manage punishments and moderate effectively
 
+This is a Web UI for this [plugin](https://www.spigotmc.org/resources/eagle-bans-reports-web-ui-1-21.122206/)
+
 ## Installation
 - Download the .zip from Github
 - Update db_config.php
 - Upload the db.sql to your database
 - Create an account and verify it
-- Set "permission" in "users" table to 2
+- Set "permission" in "users" table to 2 (In the future you can do this on the player's log page)
 - enjoy!
 
 ## Customization
@@ -17,7 +19,8 @@ Customize the css in "assets/scss/style.scss" or upload your own Boostrap theme 
 Afterwards run "sass-prod" to build the css  
 
 ## Requirements
-Tested on PHP-Version: 8.0.26
+Build and tested on PHP-Version: 8.0.26
+Build and tested using MySQL
 
 ## Contributing
 If you'd like to contribute, please fork the repository and use a feature branch.
